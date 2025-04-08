@@ -50,6 +50,9 @@ The MCP System empowers Micro Collection Partners to:
 - Match orders with partner location and availability
 - Daily/weekly reports for analytics
 
+## Output
+Dashboard
+![Image](https://github.com/user-attachments/assets/d35d7fcd-d813-484b-8cac-ec3fe8c4ef44)
 
 
 
